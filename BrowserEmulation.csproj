@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net471</TargetFramework>
+    <PackageId>InternetExplorer.BrowserEmulation</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Marcos Bozzani</Authors>
+    <RepositoryUrl>https://github.com/marcosbozzani/InternetExplorer.BrowserEmulation</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
